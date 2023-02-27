@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working @ altacucina.co<br>👯 I’m looking to collaborate on DevOps - related projects<br>🌱 I’m currently learning DevOps, studying Kubernetes, Terraform and AWS<br>💬 Ask me about Django, DRF and how to deploy apps in the cloud.<br>⚡ Fun fact I like playing Volleyball
+🔭 I’m currently working @ [altacucina.co](https://altacucina.co)<br>👯 I’m looking to collaborate on DevOps - related projects<br>🌱 I’m currently learning DevOps, studying Kubernetes, Terraform and AWS<br>💬 Ask me about Django, DRF and how to deploy apps in the cloud.<br>⚡ Fun fact I like playing Volleyball
 
 ## 🌐 Socials:
 
