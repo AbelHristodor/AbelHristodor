@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working @ [equixly.com](https://equixly.com)<br>👯 I’m looking to collaborate on DevOps - related projects<br>🌱 I’m currently learning DevOps, studying Kubernetes, Terraform and AWS<br>💬 Ask me about Django, DRF and how to deploy apps in the cloud.<br>⚡ Fun fact I like playing Volleyball
+🔭 I’m currently working @ [equixly.com](https://equixly.com)<br>👯 I’m looking to collaborate on Rust/Golang and DevOps related projects.<br>🌱 I’m currently deep diving into Rust and DevOps, studying Kubernetes, IaC and GCP/AWS<br>💬 Ask me about Python, infrastructure and CI/CD Pipelines.<br>⚡ Fun fact: I like playing Volleyball and beach volley!
 
 ## 🌐 Socials:
 
