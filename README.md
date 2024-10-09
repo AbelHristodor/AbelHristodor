@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m currently working @[Equixly](https://equixly.com)<br>👯 I’m looking to collaborate on Cloud Native and DevOps related projects.<br>🌱 I’m currently deep diving into Rust and DevOps, studying Kubernetes, IaC and GCP/AWS<br>💬 Ask me about Python, Infrastructure and CI/CD Pipelines.
+🔭 I’m currently working at [Equixly | API Security](https://equixly.com)<br>👯 I’m looking to collaborate on Cloud Native and DevOps related projects.<br>🌱 I’m currently deep diving into Rust and DevOps, studying Kubernetes, IaC and GCP/AWS<br>💬 Ask me about Python, Infrastructure and CI/CD Pipelines.
 
 ## 🌐 Socials
 
