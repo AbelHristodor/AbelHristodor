@@ -3,8 +3,6 @@
 🔭 Cloud DevOps Eng @ [Equixly | API Security](https://equixly.com)<br>
 🌱 Passionate about the Cloud Native world, DevOps and Kubernetes<br>
 
-## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbelHristodor) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abel_hristodor)
 
 # 💻 Tech Stack
