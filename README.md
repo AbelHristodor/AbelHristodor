@@ -17,6 +17,8 @@
 I'm a **DevOps/Systems Engineer** with a strong focus on **Kubernetes** and **Cloud technologies**.
 I enjoy optimizing infrastructure and automating workflows.
 
+---
+
 ### 🛠️ Skills
 
 - **Kubernetes** – Building and maintaining containerized applications at scale.
