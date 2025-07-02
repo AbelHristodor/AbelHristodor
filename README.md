@@ -26,5 +26,4 @@ I enjoy optimizing infrastructure and automating workflows.
 - **Systems Engineering** – Managing and optimizing large-scale systems and servers.
 
 ---
-
-[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelHristodor&theme=nord&show_icons=true)](https://github.com/AbelHristodor/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=AbelHristodor&color=blue)
