@@ -24,6 +24,3 @@ I enjoy optimizing infrastructure and automating workflows.
 - **Programming Languages**: Python, Go, Rust.
 - **Automation** – Streamlining workflows with CI/CD pipelines and infrastructure as code.
 - **Systems Engineering** – Managing and optimizing large-scale systems and servers.
-
----
-![](https://komarev.com/ghpvc/?username=AbelHristodor&color=blue)
