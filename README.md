@@ -12,7 +12,7 @@
   </a>
 </div>
 
-## 🚀 About
+# Hi, I'm Abel! 👨‍💻
 
 I'm a **DevOps/Systems Engineer** with a strong focus on **Kubernetes** and **Cloud technologies**.
 I enjoy optimizing infrastructure and automating workflows.
